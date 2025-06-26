@@ -38,7 +38,6 @@ The system uses multiple classes (`Book`, `User`, and `Library`) all implemented
    ```bash
    java LibrarySystem
 
-![ss1](images/screenshot4.png)
-![ss2](images/screenshot5.png)
-![ss3](images/screenshot6.png)
-![ss3](images/screenshot7.png)
+![ss1](screenshots/ss1.png)
+![ss1](screenshots/ss2.png)
+![ss1](screenshots/ss3.png)
